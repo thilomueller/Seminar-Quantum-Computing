@@ -1,0 +1,2 @@
+# Quantum Algirithms using the Quantum Singular Value Transformaiton
+This repository contains an implementation of the quantum singular value transformation and some examples of its applications. It is mainly based on a paper by [Martyn et al.](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.040203)
